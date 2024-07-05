@@ -5,7 +5,7 @@
 
 Bilgi teknolojileri dünyasında her gün kendimi geliştirmek için çabalayan hevesli ve tutkulu bir öğrenci olarak, programlama ve yazılım geliştirme konularında derinlemesine bilgiye sahibim. MERN stack teknolojilerine hakimiyetimle birlikte, Python, Java, Kotlin, PostgreSQL ve MongoDB gibi çeşitli programlama dilleri ve veritabanları üzerinde de çalışıyorum.
 
-🚀 ** Zorlukların üstesinden gelmek ve karmaşık problemleri çözmek benim için bir tutku. **Projelerdeki detayları dikkatle analiz ederek en iyi çözümleri üretmeye odaklanıyorum.
+🚀 **Zorlukların üstesinden gelmek ve karmaşık problemleri çözmek benim için bir tutku.** Projelerdeki detayları dikkatle analiz ederek en iyi çözümleri üretmeye odaklanıyorum.
 
 💡 **Yeni teknolojileri öğrenme konusunda istekliyim** ve bu alandaki gelişmeleri yakından takip ediyorum. Sürekli olarak kendimi geliştirmek ve sektördeki en iyi uygulamaları öğrenmek için çaba sarf ediyorum. Her gün yeni bilgiler edinmek ve bu bilgileri pratiğe dökmek benim için büyük bir motivasyon kaynağı.
 ## Teknolojiler ve Diller
