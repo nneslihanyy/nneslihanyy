@@ -13,7 +13,7 @@ Bilgi teknolojileri dünyasında her gün kendimi geliştirmek için çabalayan 
   
 ## İstatistiklerim
 ![Neslihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nneslihanyy&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nneslihanyy&theme=radical)](https://git.io/streak-stats)
+
 
 ## İletişim
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neslihan-ya%C4%9Fmurca/)
